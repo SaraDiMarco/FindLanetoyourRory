@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Find the Lane to your Rory</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://saradimarco.github.io/FindLanetoyourRory/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saradimarco.github.io/FindLanetoyourRory</link>
 	<description>the connection between music and books</description>
 	<lastBuildDate>Wed, 19 Apr 2023 10:24:24 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/06/elementor/thumbs/Find-the-5.png</url>
+	<url>https://saradimarco.github.io/FindLanetoyourRory/wp-content/uploads/2023/06/elementor/thumbs/Find-the-5.png</url>
 	<title>Find the Lane to your Rory</title>
-	<link></link>
+	<link>https://saradimarco.github.io/FindLanetoyourRory</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ciao mondo!</title>
-		<link>/ciao-mondo/</link>
-					<comments>/ciao-mondo/#comments</comments>
+		<link>https://saradimarco.github.io/FindLanetoyourRory/ciao-mondo/</link>
+					<comments>https://saradimarco.github.io/FindLanetoyourRory/ciao-mondo/#comments</comments>
 		
 		<dc:creator><![CDATA[sara_dimarco]]></dc:creator>
 		<pubDate>Wed, 19 Apr 2023 10:24:24 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://saradimarco.github.io/FindLanetoyourRory/?p=1</guid>
 
 					<description><![CDATA[Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!]]></description>
 										<content:encoded><![CDATA[
 <p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/ciao-mondo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://saradimarco.github.io/FindLanetoyourRory/ciao-mondo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

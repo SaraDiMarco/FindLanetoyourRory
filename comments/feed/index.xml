@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti per Find the Lane to your Rory	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://saradimarco.github.io/FindLanetoyourRory/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saradimarco.github.io/FindLanetoyourRory</link>
 	<description>the connection between music and books</description>
 	<lastBuildDate>Wed, 19 Apr 2023 10:24:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Commenti su Ciao mondo! di Un commentatore di WordPress		</title>
-		<link>/ciao-mondo/#comment-1</link>
+		<link>https://saradimarco.github.io/FindLanetoyourRory/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
 		<pubDate>Wed, 19 Apr 2023 10:24:24 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://saradimarco.github.io/FindLanetoyourRory/?p=1#comment-1</guid>
 
 					<description><![CDATA[Ciao, questo è un commento.
 Per iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.
